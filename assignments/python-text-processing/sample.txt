@@ -1,0 +1,2 @@
+Python helps students solve problems. Students write code, test code, and improve their programs.
+Good programs are clear, and clear programs are easier to test.

@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Cleaning text files and analyzing word frequency with Python.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Text",
+          "file": "sample.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
